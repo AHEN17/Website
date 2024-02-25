@@ -57,3 +57,6 @@ footer {
   text-align: center;
   padding: 20px;
 }
+element {
+  -webkit-locale: "en";
+}
